@@ -1,0 +1,564 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: Segoe UI;
+	/*font-size: 14px;*/
+	background: #eee;
+	
+}
+
+#nav{
+	background: rgb(13,32,49);
+	padding: 20px;
+}
+
+#tree{
+	text-align: center;
+	padding: 10px;
+	background: linear-gradient(to right, purple ,red);
+	color: #fff;
+}
+
+#tree2{
+	text-align: center;
+	padding: 10px;
+	background: rgb(40,67,89);
+	color: #fff;
+}
+
+#tree3{
+	text-align: center;
+	padding: 10px;	
+	background: brown;
+	color: #fff;
+}
+
+#tree4{
+	text-align: center;
+	padding: 10px;
+	background: linear-gradient(to right, purple ,red);
+	color: #fff;
+}
+
+#tree5{
+	text-align: center;
+	padding: 10px;
+	background: rgb(40,67,89);
+	color: #fff;
+}
+
+#tree6{
+	text-align: center;
+	padding: 10px;
+	background: brown;
+	color: #fff;
+}
+
+#tree7{
+	text-align: center;
+	padding: 10px;
+	background: rgb(40,67,89);
+	color: #fff;
+}
+
+#tree8{
+	text-align: center;
+	padding: 10px;
+	background: brown;
+	color: #fff;
+}
+
+#container{
+	height: 350px;
+	background: url('../images/b1.png');
+	background-position: center;
+	background-size: cover;
+}
+
+#skillsContainer, #contactContainer{
+	padding: 20px;
+	border-radius: 5px;
+	background: #fff;
+	box-shadow: 0 0 5px grey;
+}
+
+#opacity{
+	height: 350px;
+	background: rgba(0,0,0,.8);
+}
+
+#banner{
+	color: #fff;
+	font-family: Segoe UI Black;
+	text-transform: uppercase;
+	text-align: center;
+	text-shadow: 0 5px 5px goldenrod;
+	padding-top: 130px; 
+}
+
+.nav-link, .navbar-brand{
+	color: #fff;
+}
+
+.nav-link:hover, .navbar-brand:hover{
+	color: #fff;
+	background: rgb(40,67,89);
+}
+
+#question{
+	background: /*rgb(0,173,124)*/ blue;
+	color: #fff;
+	padding: 20px;
+	position: relative;
+	font-size: 20px;
+}
+
+#question:after{
+	content: '';
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	background: /*rgb(0,173,124)*/ blue;
+	right: 90px;
+	margin-top: 4px;
+	transform: rotate(45deg);
+}
+
+#question2{
+	background: rgb(57,62,70);
+	color: #fff;
+	font-size: 20px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;	
+	padding: 20px;
+	position: relative;
+}
+
+#question2:after{
+	content: '';
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	position: absolute;
+	width: 10px;
+	height: 100%;
+	background: blue;
+	left: 0;
+	top: 0;
+}
+
+#question2:before{
+	content: '09030306779';
+	background: blue;
+	height: 30px;
+	padding: 2px 5px 2px 5px;
+	font-size: 15px;
+	position: absolute;
+	right: 20px;
+	bottom: -15px;
+}
+
+#hr{
+ 	background: rgb(13,32,49);
+ 	height: 3px;
+ 	width: 60px;
+ 	margin-left: 0;
+ 	margin-top: -5px;
+}
+
+#siderow{
+	background: url('../images/b1.png');
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+}
+
+.a{
+	background: url(../images/recruitment.png);
+	background-position: center;
+	background-size: cover;
+	height: 200px;
+	box-shadow: 0 0 3px grey;
+}
+
+.b{
+	background: url('../images/project.png');
+	box-shadow: 0 0 3px grey;
+	background-position: center;
+	background-size: cover;
+	height: 200px;
+}
+
+.c{
+	background: url(../images/poultry.png);
+	background-position: center;
+	box-shadow: 0 0 3px grey;
+	background-size: cover;
+	height: 200px;
+}
+
+.d{
+	background: url(../images/reservation.png);
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0 0 3px grey;
+	height: 200px;
+}
+
+.e{
+	background: url(../images/tourism.png);
+	background-position: center;
+	box-shadow: 0 0 3px grey;
+	background-size: cover;
+	height: 200px;
+}
+
+.f{
+	background: url(../images/hospital.png);
+	background-position: center;
+	box-shadow: 0 0 3px grey;
+	background-size: cover;
+	height: 200px;
+}
+
+.read{
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+}
+
+#fafa{
+	font-size: 20px;
+	background: #fff;
+	color: /*rgb(0,173,124)*/ blue;
+	position: relative;
+	top: -40px;
+	padding: 15px;
+	border-radius: 50%;
+}
+
+#fafa2{
+	font-size: 25px;
+	padding-left: 20px;
+	color: #fff;
+}
+
+#text_a, #text_b, #text_c, #text_d, #text_e,#text_f{
+	background: rgba(55,63,74,.8);
+	position: relative;
+	height: 200px;
+	left: 0;
+	right: 0;
+	color: #fff;
+	text-align: center;
+	padding-top: 70px;
+}
+
+#container_fluid{
+	background: rgb(13,32,49);
+	padding: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+#project_1a{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/recruitment.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+
+}
+
+#project_1b{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/recruitmentb.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_1c{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/recruitmentc.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_1d{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/recruitmentd.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_1e{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/recruitmente.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_1f{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/recruitmentf.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_2a{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/project.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+
+}
+
+#project_2b{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/projectb.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_2c{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/projectc.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_2d{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/projectd.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_2e{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/projecte.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_2f{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/projectf.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_3a{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/poultry.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+
+}
+
+#project_3b{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/poultryb.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_3c{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/poultryc.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_3d{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/poultryd.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_3e{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/poultrye.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_3f{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/poultryf.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_4a{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/reservation.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+
+}
+
+#project_4b{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/reservationb.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_4c{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/reservationc.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_4d{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/reservationd.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_4e{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/reservatione.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_4f{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/reservationf.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_5a{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/tourism.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+
+}
+
+#project_5b{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/tourismb.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_5c{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/tourismc.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_5d{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/tourismd.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_5e{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/tourisme.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_5f{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/tourismf.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_6a{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/hospital.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+
+}
+
+#project_6b{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/hospitalb.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_6c{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/hospitalc.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_6d{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/hospitald.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_6e{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/hospitale.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+#project_6f{
+	box-shadow: 0 0 3px grey;
+	background: url('../images/hospitalf.png');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+footer{
+	background: rgb(13,32,49);
+	color: #fff;
+	padding: 40px;
+	text-align: center;
+}
