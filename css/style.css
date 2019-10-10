@@ -111,7 +111,7 @@ body{
 }
 
 .a{
-	background: url(images/recruitment.png);
+	background: url('../images/recruitment.png');
 	background-position: center;
 	background-size: cover;
 	height: 200px;
@@ -125,28 +125,28 @@ body{
 }
 
 .c{
-	background: url(../images/poultry.png);
+	background: url('../images/poultry.png');
 	background-position: center;
 	background-size: cover;
 	height: 200px;
 }
 
 .d{
-	background: url(../images/reservation.png);
+	background: url('../images/reservation.png');
 	background-position: center;
 	background-size: cover;
 	height: 200px;
 }
 
 .e{
-	background: url(../images/tourism.png);
+	background: url('../images/tourism.png');
 	background-position: center;
 	background-size: cover;
 	height: 200px;
 }
 
 .f{
-	background: url(../images/hospital.png);
+	background: url('../images/hospital.png');
 	background-position: center;
 	background-size: cover;
 	height: 200px;
