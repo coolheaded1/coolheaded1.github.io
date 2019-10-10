@@ -111,14 +111,14 @@ body{
 }
 
 .a{
-	background: url(../images/recruitment.png);
+	background: url(images/recruitment.png);
 	background-position: center;
 	background-size: cover;
 	height: 200px;
 }
 
 .b{
-	background: url(../images/project.png);
+	background: url('../images/project.png');
 	background-position: center;
 	background-size: cover;
 	height: 200px;
