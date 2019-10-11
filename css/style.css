@@ -183,7 +183,7 @@ body{
 }
 
 .b{
-	background: url('../images/project.png');
+	background: url('../images/project.PNG');
 	box-shadow: 0 0 3px grey;
 	background-position: center;
 	background-size: cover;
@@ -199,7 +199,7 @@ body{
 }
 
 .d{
-	background: url('../images/reservation.png');
+	background: url('../images/reservation.PNG');
 	background-position: center;
 	background-size: cover;
 	box-shadow: 0 0 3px grey;
@@ -207,7 +207,7 @@ body{
 }
 
 .e{
-	background: url('../images/tourism.png');
+	background: url('../images/tourism.PNG');
 	background-position: center;
 	box-shadow: 0 0 3px grey;
 	background-size: cover;
@@ -215,7 +215,7 @@ body{
 }
 
 .f{
-	background: url('../images/hospital.png');
+	background: url('../images/hospital.PNG');
 	background-position: center;
 	box-shadow: 0 0 3px grey;
 	background-size: cover;
