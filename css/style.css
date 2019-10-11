@@ -175,7 +175,7 @@ body{
 }
 
 .a{
-	background: url(../images/recruitment.png);
+	background: url('../images/recruitment.PNG');
 	background-position: center;
 	background-size: cover;
 	height: 200px;
