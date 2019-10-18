@@ -180,7 +180,7 @@ body{
 }
 
 .a{
-	background: url(../images/recruitment.png);
+	background: url(../images/recruitment.jpg);
 	background-position: center;
 	background-size: cover;
 	height: 200px;
@@ -188,7 +188,7 @@ body{
 }
 
 .b{
-	background: url('../images/project.png');
+	background: url('../images/project.jpg');
 	box-shadow: 0 0 3px grey;
 	background-position: center;
 	background-size: cover;
@@ -196,7 +196,7 @@ body{
 }
 
 .c{
-	background: url(../images/poultry.png);
+	background: url(../images/poultry.jpg);
 	background-position: center;
 	box-shadow: 0 0 3px grey;
 	background-size: cover;
@@ -204,7 +204,7 @@ body{
 }
 
 .d{
-	background: url(../images/reservation.png);
+	background: url(../images/reservation.jpg);
 	background-position: center;
 	background-size: cover;
 	box-shadow: 0 0 3px grey;
@@ -212,7 +212,7 @@ body{
 }
 
 .e{
-	background: url(../images/tourism.png);
+	background: url(../images/tourism.jpg);
 	background-position: center;
 	box-shadow: 0 0 3px grey;
 	background-size: cover;
@@ -220,7 +220,7 @@ body{
 }
 
 .f{
-	background: url(../images/hospital.png);
+	background: url(../images/hospital.jpg);
 	background-position: center;
 	box-shadow: 0 0 3px grey;
 	background-size: cover;
@@ -269,7 +269,7 @@ body{
 
 #project_1a{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/recruitment.png');
+	background: url('../images/recruitment.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -278,7 +278,7 @@ body{
 
 #project_1b{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/recruitmentb.png');
+	background: url('../images/recruitmentb.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -286,7 +286,7 @@ body{
 
 #project_1c{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/recruitmentc.png');
+	background: url('../images/recruitmentc.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -294,7 +294,7 @@ body{
 
 #project_1d{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/recruitmentd.png');
+	background: url('../images/recruitmentd.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -302,7 +302,7 @@ body{
 
 #project_1e{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/recruitmente.png');
+	background: url('../images/recruitmente.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -310,7 +310,7 @@ body{
 
 #project_1f{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/recruitmentf.png');
+	background: url('../images/recruitmentf.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -318,7 +318,7 @@ body{
 
 #project_2a{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/project.png');
+	background: url('../images/project.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -327,7 +327,7 @@ body{
 
 #project_2b{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/projectb.png');
+	background: url('../images/projectb.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -335,7 +335,7 @@ body{
 
 #project_2c{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/projectc.png');
+	background: url('../images/projectc.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -343,7 +343,7 @@ body{
 
 #project_2d{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/projectd.png');
+	background: url('../images/projectd.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -351,7 +351,7 @@ body{
 
 #project_2e{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/projecte.png');
+	background: url('../images/projecte.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -359,7 +359,7 @@ body{
 
 #project_2f{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/projectf.png');
+	background: url('../images/projectf.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -367,7 +367,7 @@ body{
 
 #project_3a{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/poultry.png');
+	background: url('../images/poultry.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -376,7 +376,7 @@ body{
 
 #project_3b{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/poultryb.png');
+	background: url('../images/poultryb.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -384,7 +384,7 @@ body{
 
 #project_3c{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/poultryc.png');
+	background: url('../images/poultryc.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -392,7 +392,7 @@ body{
 
 #project_3d{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/poultryd.png');
+	background: url('../images/poultryd.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -400,7 +400,7 @@ body{
 
 #project_3e{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/poultrye.png');
+	background: url('../images/poultrye.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -408,7 +408,7 @@ body{
 
 #project_3f{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/poultryf.png');
+	background: url('../images/poultryf.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -416,7 +416,7 @@ body{
 
 #project_4a{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/reservation.png');
+	background: url('../images/reservation.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -425,7 +425,7 @@ body{
 
 #project_4b{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/reservationb.png');
+	background: url('../images/reservationb.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -433,7 +433,7 @@ body{
 
 #project_4c{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/reservationc.png');
+	background: url('../images/reservationc.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -441,7 +441,7 @@ body{
 
 #project_4d{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/reservationd.png');
+	background: url('../images/reservationd.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -449,7 +449,7 @@ body{
 
 #project_4e{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/reservatione.png');
+	background: url('../images/reservatione.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -457,7 +457,7 @@ body{
 
 #project_4f{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/reservationf.png');
+	background: url('../images/reservationf.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -465,7 +465,7 @@ body{
 
 #project_5a{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/tourism.png');
+	background: url('../images/tourism.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -474,7 +474,7 @@ body{
 
 #project_5b{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/tourismb.png');
+	background: url('../images/tourismb.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -482,7 +482,7 @@ body{
 
 #project_5c{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/tourismc.png');
+	background: url('../images/tourismc.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -490,7 +490,7 @@ body{
 
 #project_5d{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/tourismd.png');
+	background: url('../images/tourismd.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -498,7 +498,7 @@ body{
 
 #project_5e{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/tourisme.png');
+	background: url('../images/tourisme.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -506,7 +506,7 @@ body{
 
 #project_5f{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/tourismf.png');
+	background: url('../images/tourismf.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -514,7 +514,7 @@ body{
 
 #project_6a{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/hospital.png');
+	background: url('../images/hospital.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -523,7 +523,7 @@ body{
 
 #project_6b{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/hospitalb.png');
+	background: url('../images/hospitalb.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -531,7 +531,7 @@ body{
 
 #project_6c{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/hospitalc.png');
+	background: url('../images/hospitalc.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -539,7 +539,7 @@ body{
 
 #project_6d{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/hospitald.png');
+	background: url('../images/hospitald.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -547,7 +547,7 @@ body{
 
 #project_6e{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/hospitale.png');
+	background: url('../images/hospitale.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
@@ -555,7 +555,7 @@ body{
 
 #project_6f{
 	box-shadow: 0 0 3px grey;
-	background: url('../images/hospitalf.png');
+	background: url('../images/hospitalf.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 200px;
